@@ -21,3 +21,11 @@ et al. (2013).
 * Scaler and Encoder: Min-max Scaler, Target Encoder
 * Image Preprocessing: Resize Images, Tokenizer
 * Modeling: XGBoost, Random Forest, BERT, CNN, Hybrid Model
+
+# Files
+* Movie_Len_data_overview.ipynb: Overview for Movie Len data, including ratings 
+* data generation TMDB large.ipynb: Steps for generating descriptions for TMDB dataset and Posters
+* CUDA_Model_v0_4_XGB_RF.ipynb: GPU-based XGBoost and Random Forest Models
+* Model_v0_5_BERT.ipynb: BERT model
+* Model_v0_5.ipynb: Hybrid Prediction System (BERT and CNN)
+* Hybrid Movie Recommendation System.pdf: Final Report
